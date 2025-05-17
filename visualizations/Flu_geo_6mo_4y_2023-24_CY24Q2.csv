@@ -1,0 +1,178 @@
+"VACCINE_GROUP","NEIGHBORHOOD_NAME","MODZCTA","PERC_VAC","LABEL","AGE_GROUP","COUNT_PEOPLE_VAC","POP_DENOMINATOR","YEAR_COVERAGE","QUARTER","NOTES"
+"Flu","Chelsea/NoMad/West Chelsea",10001,99,"10001, 10118","6 months - 4 years",808,506,"2023 - 24","Q2",NA
+"Flu","Chinatown/Lower East Side",10002,63,"10002","6 months - 4 years",1451,2294,"2023 - 24","Q2",NA
+"Flu","East Village/Gramercy/Greenwich Village",10003,97,"10003","6 months - 4 years",911,936,"2023 - 24","Q2",NA
+"Flu","Financial District",10004,99,"10004","6 months - 4 years",167,150,"2023 - 24","Q2",NA
+"Flu","Financial District",10005,99,"10005","6 months - 4 years",318,215,"2023 - 24","Q2",NA
+"Flu","Financial District",10006,99,"10006","6 months - 4 years",201,79,"2023 - 24","Q2",NA
+"Flu","TriBeCa",10007,97,"10007","6 months - 4 years",453,467,"2023 - 24","Q2",NA
+"Flu","Alphabet City/East Village/Stuyvesant Town-Cooper Village",10009,72,"10009","6 months - 4 years",994,1376,"2023 - 24","Q2",NA
+"Flu","Flatiron/Gramercy/Kips Bay",10010,99,"10010","6 months - 4 years",778,748,"2023 - 24","Q2",NA
+"Flu","Chelsea",10011,79,"10011","6 months - 4 years",1014,1278,"2023 - 24","Q2",NA
+"Flu","Greenwich Village/SoHo",10012,92,"10012","6 months - 4 years",458,499,"2023 - 24","Q2",NA
+"Flu","Hudson Square/Little Italy/SoHo/TriBeCa",10013,98,"10013","6 months - 4 years",1083,1110,"2023 - 24","Q2",NA
+"Flu","Hudson Square/Meatpacking District/West Village",10014,95,"10014","6 months - 4 years",627,659,"2023 - 24","Q2",NA
+"Flu","Kips Bay/Murray Hill/NoMad",10016,96,"10016","6 months - 4 years",1201,1254,"2023 - 24","Q2",NA
+"Flu","East Midtown/Murray Hill",10017,99,"10017","6 months - 4 years",1157,327,"2023 - 24","Q2",NA
+"Flu","Hell's Kitchen/Midtown Manhattan",10018,99,"10018","6 months - 4 years",192,139,"2023 - 24","Q2",NA
+"Flu","Hell's Kitchen/Midtown Manhattan",10019,99,"10019, 10020","6 months - 4 years",1260,976,"2023 - 24","Q2",NA
+"Flu","Lenox Hill/Upper East Side",10021,99,"10021","6 months - 4 years",1517,1392,"2023 - 24","Q2",NA
+"Flu","East Midtown",10022,99,"10022","6 months - 4 years",906,853,"2023 - 24","Q2",NA
+"Flu","Lincoln Square",10023,85,"10023","6 months - 4 years",2112,2493,"2023 - 24","Q2",NA
+"Flu","Upper West Side",10024,81,"10024","6 months - 4 years",2003,2465,"2023 - 24","Q2",NA
+"Flu","Manhattan Valley/Morningside Heights/Upper West Side",10025,73,"10025","6 months - 4 years",2231,3053,"2023 - 24","Q2",NA
+"Flu","Central Harlem (South)",10026,52,"10026","6 months - 4 years",875,1667,"2023 - 24","Q2",NA
+"Flu","Central Harlem (South)/Morningside Heights/West Harlem",10027,55,"10027","6 months - 4 years",1363,2487,"2023 - 24","Q2",NA
+"Flu","Upper East Side/Yorkville",10028,75,"10028","6 months - 4 years",1140,1521,"2023 - 24","Q2",NA
+"Flu","East Harlem",10029,69,"10029","6 months - 4 years",2185,3153,"2023 - 24","Q2",NA
+"Flu","Central Harlem (North)",10030,45,"10030","6 months - 4 years",705,1552,"2023 - 24","Q2",NA
+"Flu","Hamilton Heights/West Harlem",10031,55,"10031","6 months - 4 years",1229,2248,"2023 - 24","Q2",NA
+"Flu","Washington Heights (South)",10032,54,"10032","6 months - 4 years",1168,2158,"2023 - 24","Q2",NA
+"Flu","Washington Heights (North)/Washington Heights (South)",10033,59,"10033","6 months - 4 years",1310,2235,"2023 - 24","Q2",NA
+"Flu","Inwood/Washington Heights (North)",10034,54,"10034","6 months - 4 years",893,1668,"2023 - 24","Q2",NA
+"Flu","East Harlem",10035,53,"10035","6 months - 4 years",889,1664,"2023 - 24","Q2",NA
+"Flu","Hell's Kitchen/Midtown Manhattan",10036,99,"10036","6 months - 4 years",945,636,"2023 - 24","Q2",NA
+"Flu","Central Harlem (North)/East Harlem",10037,99,"10037","6 months - 4 years",1147,709,"2023 - 24","Q2",NA
+"Flu","Chinatown/Financial District",10038,78,"10038","6 months - 4 years",475,605,"2023 - 24","Q2",NA
+"Flu","Central Harlem (North)/Washington Heights (South)",10039,43,"10039","6 months - 4 years",648,1520,"2023 - 24","Q2",NA
+"Flu","Washington Heights (North)",10040,56,"10040","6 months - 4 years",960,1723,"2023 - 24","Q2",NA
+"Flu","Roosevelt Island",10044,99,"10044","6 months - 4 years",425,414,"2023 - 24","Q2",NA
+"Flu","Lenox Hill/Upper East Side",10065,99,"10065","6 months - 4 years",1295,1117,"2023 - 24","Q2",NA
+"Flu","Lincoln Square",10069,99,"10069","6 months - 4 years",358,237,"2023 - 24","Q2",NA
+"Flu","Lenox Hill/Upper East Side",10075,99,"10075, 10162","6 months - 4 years",907,837,"2023 - 24","Q2",NA
+"Flu","Upper East Side/Yorkville",10128,87,"10128","6 months - 4 years",1681,1942,"2023 - 24","Q2",NA
+"Flu","Battery Park City",10280,50,"10280","6 months - 4 years",284,567,"2023 - 24","Q2",NA
+"Flu","Battery Park City",10282,75,"10282","6 months - 4 years",382,512,"2023 - 24","Q2",NA
+"Flu","Silver Lake/St. George",10301,62,"10301","6 months - 4 years",1119,1819,"2023 - 24","Q2",NA
+"Flu","Elm Park",10302,49,"10302","6 months - 4 years",515,1058,"2023 - 24","Q2",NA
+"Flu","Graniteville/Mariner's Harbor/Port Ivory",10303,41,"10303","6 months - 4 years",635,1540,"2023 - 24","Q2",NA
+"Flu","New Dorp/Todt Hill",10304,53,"10304","6 months - 4 years",1141,2162,"2023 - 24","Q2",NA
+"Flu","Arrochar/Midland Beach/Shore Acres/South Beach Ocean Breeze",10305,51,"10305","6 months - 4 years",994,1930,"2023 - 24","Q2",NA
+"Flu","Lighthouse Hill/Midland Beach/New Dorp/Oakwood",10306,46,"10306","6 months - 4 years",1127,2470,"2023 - 24","Q2",NA
+"Flu","Tottenville",10307,35,"10307","6 months - 4 years",233,673,"2023 - 24","Q2",NA
+"Flu","Great Kills",10308,47,"10308","6 months - 4 years",604,1288,"2023 - 24","Q2",NA
+"Flu","Charleston/Prince's Bay/Woodrow",10309,38,"10309","6 months - 4 years",629,1670,"2023 - 24","Q2",NA
+"Flu","Port Richmond/Randall Manor/West Brighton",10310,51,"10310","6 months - 4 years",723,1421,"2023 - 24","Q2",NA
+"Flu","Annadale/Rossville",10312,43,"10312","6 months - 4 years",1207,2794,"2023 - 24","Q2",NA
+"Flu","Bloomfield/Freshkills Park",10314,50,"10314","6 months - 4 years",2117,4230,"2023 - 24","Q2",NA
+"Flu","Concourse/Melrose",10451,66,"10451","6 months - 4 years",1748,2637,"2023 - 24","Q2",NA
+"Flu","Concourse/Highbridge",10452,58,"10452","6 months - 4 years",2771,4762,"2023 - 24","Q2",NA
+"Flu","Morris Heights/Mount Hope/University Heights",10453,59,"10453","6 months - 4 years",2815,4779,"2023 - 24","Q2",NA
+"Flu","Mott Haven/Port Morris",10454,56,"10454","6 months - 4 years",1332,2394,"2023 - 24","Q2",NA
+"Flu","Mott Haven",10455,64,"10455","6 months - 4 years",1626,2521,"2023 - 24","Q2",NA
+"Flu","Claremont/Morrisania",10456,61,"10456","6 months - 4 years",3290,5387,"2023 - 24","Q2",NA
+"Flu","Belmont/Claremont/Mount Hope/Tremont",10457,60,"10457","6 months - 4 years",2974,4951,"2023 - 24","Q2",NA
+"Flu","Belmont/Fordham University/Kingsbridge",10458,55,"10458","6 months - 4 years",2669,4887,"2023 - 24","Q2",NA
+"Flu","Charlotte Gardens/Hunts Point",10459,52,"10459","6 months - 4 years",1641,3164,"2023 - 24","Q2",NA
+"Flu","Charlotte Gardens/Tremont/Van Nest/West Farms",10460,60,"10460","6 months - 4 years",2131,3576,"2023 - 24","Q2",NA
+"Flu","Morris Park/Pelham Bay/Westchester Square",10461,63,"10461","6 months - 4 years",1572,2482,"2023 - 24","Q2",NA
+"Flu","Parkchester/Pelham Parkway/Van Nest/Westchester Square",10462,68,"10462","6 months - 4 years",2659,3938,"2023 - 24","Q2",NA
+"Flu","Kingsbridge/Marble Hill/Riverdale/Spuyten Duyvil",10463,61,"10463","6 months - 4 years",2034,3332,"2023 - 24","Q2",NA
+"Flu","City Island",10464,99,"10464","6 months - 4 years",295,151,"2023 - 24","Q2",NA
+"Flu","Country Club/Throgs Neck",10465,49,"10465","6 months - 4 years",1043,2110,"2023 - 24","Q2",NA
+"Flu","Edenwald/Wakefield",10466,52,"10466","6 months - 4 years",1806,3504,"2023 - 24","Q2",NA
+"Flu","Allerton/Norwood/Pelham Parkway/Williamsbridge",10467,61,"10467","6 months - 4 years",3336,5439,"2023 - 24","Q2",NA
+"Flu","Fordham/Kingsbridge/University Heights",10468,53,"10468","6 months - 4 years",2475,4629,"2023 - 24","Q2",NA
+"Flu","Allerton/Baychester/Pelham Gardens/Williamsbridge",10469,51,"10469","6 months - 4 years",1688,3333,"2023 - 24","Q2",NA
+"Flu","Wakefield/Woodlawn",10470,72,"10470","6 months - 4 years",543,751,"2023 - 24","Q2",NA
+"Flu","Fieldston/North Riverdale/Riverdale",10471,62,"10471","6 months - 4 years",660,1061,"2023 - 24","Q2",NA
+"Flu","Soundview",10472,82,"10472","6 months - 4 years",2870,3502,"2023 - 24","Q2",NA
+"Flu","Castle Hill/Clason Point/Soundview",10473,53,"10473","6 months - 4 years",1405,2647,"2023 - 24","Q2",NA
+"Flu","Hunts Point",10474,64,"10474","6 months - 4 years",430,672,"2023 - 24","Q2",NA
+"Flu","Co-op City/Edenwald",10475,48,"10475","6 months - 4 years",649,1362,"2023 - 24","Q2",NA
+"Flu","Bellerose/Douglaston-Little Neck",11004,99,"11004, 11005","6 months - 4 years",787,694,"2023 - 24","Q2",NA
+"Flu","Astoria (South)/Long Island City/Sunnyside",11101,99,"11101","6 months - 4 years",2466,1393,"2023 - 24","Q2",NA
+"Flu","Astoria (North)",11102,87,"11102","6 months - 4 years",847,978,"2023 - 24","Q2",NA
+"Flu","Astoria (North)/Astoria (South)",11103,62,"11103","6 months - 4 years",743,1190,"2023 - 24","Q2",NA
+"Flu","Sunnyside",11104,67,"11104","6 months - 4 years",702,1052,"2023 - 24","Q2",NA
+"Flu","Ditmars Steinway",11105,66,"11105","6 months - 4 years",906,1369,"2023 - 24","Q2",NA
+"Flu","Astoria (South)",11106,64,"11106","6 months - 4 years",900,1415,"2023 - 24","Q2",NA
+"Flu","Long Island City",11109,99,"11109","6 months - 4 years",429,266,"2023 - 24","Q2",NA
+"Flu","Brooklyn Heights/DUMBO/Downtown Brooklyn",11201,93,"11201","6 months - 4 years",2976,3200,"2023 - 24","Q2",NA
+"Flu","East Flatbush (North)/East Flatbush (South)",11203,57,"11203","6 months - 4 years",1683,2972,"2023 - 24","Q2",NA
+"Flu","Bensonhurst/Mapleton",11204,62,"11204","6 months - 4 years",3038,4928,"2023 - 24","Q2",NA
+"Flu","Bedford-Stuyvesant (West)/Clinton Hill/Fort Greene",11205,36,"11205","6 months - 4 years",1530,4272,"2023 - 24","Q2",NA
+"Flu","Williamsburg (South)",11206,33,"11206","6 months - 4 years",2062,6190,"2023 - 24","Q2",NA
+"Flu","Cypress Hills/East New York",11207,52,"11207","6 months - 4 years",2616,5040,"2023 - 24","Q2",NA
+"Flu","Cypress Hills/East New York",11208,58,"11208","6 months - 4 years",3278,5640,"2023 - 24","Q2",NA
+"Flu","Bay Ridge/Fort Hamilton",11209,56,"11209","6 months - 4 years",1832,3245,"2023 - 24","Q2",NA
+"Flu","Flatlands/Midwood",11210,52,"11210","6 months - 4 years",1694,3270,"2023 - 24","Q2",NA
+"Flu","East Williamsburg/Williamsburg (North)/Williamsburg (South)",11211,39,"11211, 11249","6 months - 4 years",3172,8110,"2023 - 24","Q2",NA
+"Flu","Ocean Hill-Brownsville",11212,56,"11212","6 months - 4 years",2411,4326,"2023 - 24","Q2",NA
+"Flu","Crown Heights (East)",11213,38,"11213","6 months - 4 years",1527,4017,"2023 - 24","Q2",NA
+"Flu","Bath Beach/Bensonhurst/Gravesend",11214,71,"11214","6 months - 4 years",2955,4139,"2023 - 24","Q2",NA
+"Flu","Gowanus/Park Slope/Windsor Terrace",11215,78,"11215","6 months - 4 years",2949,3757,"2023 - 24","Q2",NA
+"Flu","Bedford-Stuyvesant (West)/Crown Heights (West)",11216,50,"11216","6 months - 4 years",1189,2369,"2023 - 24","Q2",NA
+"Flu","Boerum Hill/Park Slope",11217,80,"11217, 11243","6 months - 4 years",1544,1939,"2023 - 24","Q2",NA
+"Flu","Kensington/Windsor Terrace",11218,60,"11218","6 months - 4 years",2771,4621,"2023 - 24","Q2",NA
+"Flu","Borough Park",11219,55,"11219","6 months - 4 years",4868,8899,"2023 - 24","Q2",NA
+"Flu","Sunset Park",11220,86,"11220","6 months - 4 years",4330,5028,"2023 - 24","Q2",NA
+"Flu","Bedford-Stuyvesant (East)/Bushwick",11221,50,"11221","6 months - 4 years",1991,3949,"2023 - 24","Q2",NA
+"Flu","Greenpoint",11222,99,"11222","6 months - 4 years",1187,1093,"2023 - 24","Q2",NA
+"Flu","Gravesend/Homecrest",11223,73,"11223","6 months - 4 years",2967,4072,"2023 - 24","Q2",NA
+"Flu","Brighton Beach/Coney Island/Seagate",11224,60,"11224","6 months - 4 years",1038,1726,"2023 - 24","Q2",NA
+"Flu","Crown Heights (West)/Prospect Lefferts Gardens",11225,51,"11225","6 months - 4 years",1508,2974,"2023 - 24","Q2",NA
+"Flu","Flatbush/Prospect Lefferts Gardens",11226,57,"11226","6 months - 4 years",2671,4657,"2023 - 24","Q2",NA
+"Flu","Bath Beach/Dyker Heights",11228,68,"11228","6 months - 4 years",1264,1849,"2023 - 24","Q2",NA
+"Flu","Gerritsen Beach/Homecrest/Sheepshead Bay",11229,67,"11229","6 months - 4 years",2439,3644,"2023 - 24","Q2",NA
+"Flu","Midwood",11230,62,"11230","6 months - 4 years",3453,5600,"2023 - 24","Q2",NA
+"Flu","Carroll Gardens/Cobble Hill/Red Hook",11231,70,"11231","6 months - 4 years",1471,2109,"2023 - 24","Q2",NA
+"Flu","Sunset Park",11232,64,"11232","6 months - 4 years",919,1441,"2023 - 24","Q2",NA
+"Flu","Bedford-Stuyvesant (East)/Ocean Hill-Brownsville",11233,37,"11233","6 months - 4 years",1623,4387,"2023 - 24","Q2",NA
+"Flu","Bergen Beach/Flatlands/Marine Park/Mill Basin",11234,53,"11234","6 months - 4 years",2090,3978,"2023 - 24","Q2",NA
+"Flu","Brighton Beach/Manhattan Beach/Sheepshead Bay",11235,72,"11235","6 months - 4 years",2295,3187,"2023 - 24","Q2",NA
+"Flu","Canarsie",11236,47,"11236","6 months - 4 years",1935,4075,"2023 - 24","Q2",NA
+"Flu","Bushwick/East Williamsburg",11237,61,"11237","6 months - 4 years",1369,2228,"2023 - 24","Q2",NA
+"Flu","Clinton Hill/Prospect Heights",11238,82,"11238","6 months - 4 years",2097,2552,"2023 - 24","Q2",NA
+"Flu","East New York",11239,61,"11239","6 months - 4 years",348,567,"2023 - 24","Q2",NA
+"Flu","Flushing/Murray Hill",11354,96,"11354","6 months - 4 years",1618,1691,"2023 - 24","Q2",NA
+"Flu","Flushing/Murray Hill/Queensboro Hill",11355,99,"11355","6 months - 4 years",2913,2667,"2023 - 24","Q2",NA
+"Flu","College Point",11356,69,"11356","6 months - 4 years",955,1384,"2023 - 24","Q2",NA
+"Flu","Whitestone",11357,61,"11357","6 months - 4 years",1005,1649,"2023 - 24","Q2",NA
+"Flu","Auburndale/Murray Hill",11358,83,"11358","6 months - 4 years",1170,1410,"2023 - 24","Q2",NA
+"Flu","Bayside (North)",11360,64,"11360","6 months - 4 years",422,664,"2023 - 24","Q2",NA
+"Flu","Bayside (North)/Bayside (South)",11361,69,"11361","6 months - 4 years",752,1093,"2023 - 24","Q2",NA
+"Flu","Douglaston-Little Neck",11362,63,"11362","6 months - 4 years",400,634,"2023 - 24","Q2",NA
+"Flu","Douglaston-Little Neck",11363,62,"11363","6 months - 4 years",146,236,"2023 - 24","Q2",NA
+"Flu","Bayside (South)/Oakland Gardens",11364,66,"11364","6 months - 4 years",862,1299,"2023 - 24","Q2",NA
+"Flu","Auburndale/Fresh Meadows/Pomonok/Utopia",11365,64,"11365","6 months - 4 years",1220,1909,"2023 - 24","Q2",NA
+"Flu","Fresh Meadows/Hillcrest",11366,71,"11366","6 months - 4 years",360,510,"2023 - 24","Q2",NA
+"Flu","Kew Gardens Hills/Pomonok",11367,63,"11367","6 months - 4 years",1624,2574,"2023 - 24","Q2",NA
+"Flu","Corona/North Corona",11368,73,"11368","6 months - 4 years",5101,7033,"2023 - 24","Q2",NA
+"Flu","Airport/East Elmhurst",11369,88,"11369","6 months - 4 years",1390,1587,"2023 - 24","Q2",NA
+"Flu","Jackson Heights/Rikers Island",11370,83,"11370","6 months - 4 years",827,1000,"2023 - 24","Q2",NA
+"Flu","Jackson Heights",11372,71,"11372","6 months - 4 years",2098,2955,"2023 - 24","Q2",NA
+"Flu","Elmhurst",11373,79,"11373","6 months - 4 years",3590,4519,"2023 - 24","Q2",NA
+"Flu","Rego Park",11374,81,"11374","6 months - 4 years",1445,1780,"2023 - 24","Q2",NA
+"Flu","Forest Hills",11375,70,"11375","6 months - 4 years",2245,3195,"2023 - 24","Q2",NA
+"Flu","Woodside",11377,76,"11377","6 months - 4 years",2718,3570,"2023 - 24","Q2",NA
+"Flu","Maspeth",11378,48,"11378","6 months - 4 years",959,1999,"2023 - 24","Q2",NA
+"Flu","Middle Village",11379,54,"11379","6 months - 4 years",860,1584,"2023 - 24","Q2",NA
+"Flu","Glendale/Ridgewood",11385,48,"11385","6 months - 4 years",2565,5392,"2023 - 24","Q2",NA
+"Flu","Cambria Heights",11411,41,"11411","6 months - 4 years",305,752,"2023 - 24","Q2",NA
+"Flu","St. Albans",11412,50,"11412","6 months - 4 years",841,1671,"2023 - 24","Q2",NA
+"Flu","Laurelton/Rosedale",11413,43,"11413","6 months - 4 years",799,1858,"2023 - 24","Q2",NA
+"Flu","Hamilton Beach/Howard Beach/Lindenwood",11414,37,"11414","6 months - 4 years",448,1200,"2023 - 24","Q2",NA
+"Flu","Kew Gardens",11415,60,"11415","6 months - 4 years",531,887,"2023 - 24","Q2",NA
+"Flu","Ozone Park",11416,75,"11416","6 months - 4 years",1030,1367,"2023 - 24","Q2",NA
+"Flu","Ozone Park",11417,70,"11417","6 months - 4 years",1017,1448,"2023 - 24","Q2",NA
+"Flu","Richmond Hill",11418,59,"11418","6 months - 4 years",1117,1897,"2023 - 24","Q2",NA
+"Flu","Richmond Hill/South Ozone Park",11419,56,"11419","6 months - 4 years",1171,2088,"2023 - 24","Q2",NA
+"Flu","South Ozone Park",11420,51,"11420","6 months - 4 years",1112,2187,"2023 - 24","Q2",NA
+"Flu","Woodhaven",11421,58,"11421","6 months - 4 years",1125,1936,"2023 - 24","Q2",NA
+"Flu","Rosedale",11422,43,"11422","6 months - 4 years",576,1351,"2023 - 24","Q2",NA
+"Flu","Hollis/Holliswood",11423,77,"11423","6 months - 4 years",836,1091,"2023 - 24","Q2",NA
+"Flu","Bellerose",11426,61,"11426","6 months - 4 years",484,799,"2023 - 24","Q2",NA
+"Flu","Bellerose/Hollis Hills/Holliswood",11427,53,"11427","6 months - 4 years",535,1010,"2023 - 24","Q2",NA
+"Flu","Queens Village",11428,63,"11428","6 months - 4 years",513,819,"2023 - 24","Q2",NA
+"Flu","Queens Village",11429,86,"11001, 11429","6 months - 4 years",994,1162,"2023 - 24","Q2",NA
+"Flu","Hillcrest/Jamaica Estates/Jamaica Hills",11432,85,"11432","6 months - 4 years",2389,2821,"2023 - 24","Q2",NA
+"Flu","Jamaica",11433,71,"11433","6 months - 4 years",1353,1918,"2023 - 24","Q2",NA
+"Flu","Airport/South Jamaica/Springfield Gardens/St. Albans",11434,54,"11434","6 months - 4 years",1680,3102,"2023 - 24","Q2",NA
+"Flu","Briarwood/Jamaica",11435,79,"11435","6 months - 4 years",2283,2893,"2023 - 24","Q2",NA
+"Flu","South Jamaica/South Ozone Park",11436,60,"11436","6 months - 4 years",634,1049,"2023 - 24","Q2",NA
+"Flu","Edgemere/Far Rockaway",11691,50,"11691","6 months - 4 years",2359,4750,"2023 - 24","Q2",NA
+"Flu","Arverne/Edgemere",11692,35,"11692","6 months - 4 years",519,1465,"2023 - 24","Q2",NA
+"Flu","Arverne/Broad Channel",11693,35,"11693","6 months - 4 years",221,637,"2023 - 24","Q2",NA
+"Flu","Belle Harbor-Neponsit/Rockaway Park",11694,41,"11694","6 months - 4 years",368,890,"2023 - 24","Q2",NA
+"Flu","Breezy Point",11697,67,"11697","6 months - 4 years",96,143,"2023 - 24","Q2",NA
