@@ -1,0 +1,178 @@
+"NEIGHBORHOOD_NAME","MODZCTA","PERC_VAC","LABEL","AGE_GROUP","COUNT_PEOPLE_VAC","POP_DENOMINATOR","YEAR_COVERAGE","QUARTER","VACCINE_GROUP","NOTES"
+"Chelsea/NoMad/West Chelsea",10001,42,"10001, 10118","13 - 17 years",246,592,"2019 - 20","Q2","Flu",NA
+"Chinatown/Lower East Side",10002,79,"10002","13 - 17 years",2303,2906,"2019 - 20","Q2","Flu",NA
+"East Village/Gramercy/Greenwich Village",10003,60,"10003","13 - 17 years",543,905,"2019 - 20","Q2","Flu",NA
+"Financial District",10004,72,"10004","13 - 17 years",61,84,"2019 - 20","Q2","Flu",NA
+"Financial District",10005,57,"10005","13 - 17 years",44,78,"2019 - 20","Q2","Flu",NA
+"Financial District",10006,65,"10006","13 - 17 years",35,54,"2019 - 20","Q2","Flu",NA
+"TriBeCa",10007,83,"10007","13 - 17 years",160,193,"2019 - 20","Q2","Flu",NA
+"Alphabet City/East Village/Stuyvesant Town-Cooper Village",10009,37,"10009","13 - 17 years",694,1876,"2019 - 20","Q2","Flu",NA
+"Flatiron/Gramercy/Kips Bay",10010,61,"10010","13 - 17 years",351,574,"2019 - 20","Q2","Flu",NA
+"Chelsea",10011,51,"10011","13 - 17 years",554,1086,"2019 - 20","Q2","Flu",NA
+"Greenwich Village/SoHo",10012,42,"10012","13 - 17 years",205,487,"2019 - 20","Q2","Flu",NA
+"Hudson Square/Little Italy/SoHo/TriBeCa",10013,75,"10013","13 - 17 years",657,880,"2019 - 20","Q2","Flu",NA
+"Hudson Square/Meatpacking District/West Village",10014,40,"10014","13 - 17 years",249,616,"2019 - 20","Q2","Flu",NA
+"Kips Bay/Murray Hill/NoMad",10016,56,"10016","13 - 17 years",439,782,"2019 - 20","Q2","Flu",NA
+"East Midtown/Murray Hill",10017,62,"10017","13 - 17 years",126,203,"2019 - 20","Q2","Flu",NA
+"Hell's Kitchen/Midtown Manhattan",10018,56,"10018","13 - 17 years",60,108,"2019 - 20","Q2","Flu",NA
+"Hell's Kitchen/Midtown Manhattan",10019,47,"10019, 10020","13 - 17 years",337,721,"2019 - 20","Q2","Flu",NA
+"Lenox Hill/Upper East Side",10021,60,"10021","13 - 17 years",687,1148,"2019 - 20","Q2","Flu",NA
+"East Midtown",10022,63,"10022","13 - 17 years",378,602,"2019 - 20","Q2","Flu",NA
+"Lincoln Square",10023,51,"10023","13 - 17 years",965,1877,"2019 - 20","Q2","Flu",NA
+"Upper West Side",10024,47,"10024","13 - 17 years",1210,2574,"2019 - 20","Q2","Flu",NA
+"Manhattan Valley/Morningside Heights/Upper West Side",10025,42,"10025","13 - 17 years",1582,3724,"2019 - 20","Q2","Flu",NA
+"Central Harlem (South)",10026,41,"10026","13 - 17 years",700,1696,"2019 - 20","Q2","Flu",NA
+"Central Harlem (South)/Morningside Heights/West Harlem",10027,41,"10027","13 - 17 years",1139,2772,"2019 - 20","Q2","Flu",NA
+"Upper East Side/Yorkville",10028,48,"10028","13 - 17 years",899,1854,"2019 - 20","Q2","Flu",NA
+"East Harlem",10029,47,"10029","13 - 17 years",1855,3935,"2019 - 20","Q2","Flu",NA
+"Central Harlem (North)",10030,32,"10030","13 - 17 years",534,1693,"2019 - 20","Q2","Flu",NA
+"Hamilton Heights/West Harlem",10031,42,"10031","13 - 17 years",1125,2664,"2019 - 20","Q2","Flu",NA
+"Washington Heights (South)",10032,44,"10032","13 - 17 years",1139,2596,"2019 - 20","Q2","Flu",NA
+"Washington Heights (North)/Washington Heights (South)",10033,41,"10033","13 - 17 years",1066,2574,"2019 - 20","Q2","Flu",NA
+"Inwood/Washington Heights (North)",10034,44,"10034","13 - 17 years",840,1896,"2019 - 20","Q2","Flu",NA
+"East Harlem",10035,42,"10035","13 - 17 years",835,2001,"2019 - 20","Q2","Flu",NA
+"Hell's Kitchen/Midtown Manhattan",10036,46,"10036","13 - 17 years",237,515,"2019 - 20","Q2","Flu",NA
+"Central Harlem (North)/East Harlem",10037,72,"10037","13 - 17 years",592,828,"2019 - 20","Q2","Flu",NA
+"Chinatown/Financial District",10038,59,"10038","13 - 17 years",375,631,"2019 - 20","Q2","Flu",NA
+"Central Harlem (North)/Washington Heights (South)",10039,31,"10039","13 - 17 years",555,1791,"2019 - 20","Q2","Flu",NA
+"Washington Heights (North)",10040,41,"10040","13 - 17 years",806,1980,"2019 - 20","Q2","Flu",NA
+"Roosevelt Island",10044,28,"10044","13 - 17 years",145,525,"2019 - 20","Q2","Flu",NA
+"Lenox Hill/Upper East Side",10065,58,"10065","13 - 17 years",435,750,"2019 - 20","Q2","Flu",NA
+"Lincoln Square",10069,86,"10069","13 - 17 years",140,163,"2019 - 20","Q2","Flu",NA
+"Lenox Hill/Upper East Side",10075,71,"10075, 10162","13 - 17 years",579,816,"2019 - 20","Q2","Flu",NA
+"Upper East Side/Yorkville",10128,46,"10128","13 - 17 years",1076,2353,"2019 - 20","Q2","Flu",NA
+"Battery Park City",10280,56,"10280","13 - 17 years",147,262,"2019 - 20","Q2","Flu",NA
+"Battery Park City",10282,60,"10282","13 - 17 years",122,202,"2019 - 20","Q2","Flu",NA
+"Silver Lake/St. George",10301,37,"10301","13 - 17 years",853,2327,"2019 - 20","Q2","Flu",NA
+"Elm Park",10302,42,"10302","13 - 17 years",578,1376,"2019 - 20","Q2","Flu",NA
+"Graniteville/Mariner's Harbor/Port Ivory",10303,28,"10303","13 - 17 years",613,2227,"2019 - 20","Q2","Flu",NA
+"New Dorp/Todt Hill",10304,35,"10304","13 - 17 years",1011,2928,"2019 - 20","Q2","Flu",NA
+"Arrochar/Midland Beach/Shore Acres/South Beach Ocean Breeze",10305,28,"10305","13 - 17 years",679,2429,"2019 - 20","Q2","Flu",NA
+"Lighthouse Hill/Midland Beach/New Dorp/Oakwood",10306,24,"10306","13 - 17 years",814,3451,"2019 - 20","Q2","Flu",NA
+"Tottenville",10307,20,"10307","13 - 17 years",228,1128,"2019 - 20","Q2","Flu",NA
+"Great Kills",10308,21,"10308","13 - 17 years",397,1904,"2019 - 20","Q2","Flu",NA
+"Charleston/Prince's Bay/Woodrow",10309,22,"10309","13 - 17 years",492,2254,"2019 - 20","Q2","Flu",NA
+"Port Richmond/Randall Manor/West Brighton",10310,32,"10310","13 - 17 years",631,1967,"2019 - 20","Q2","Flu",NA
+"Annadale/Rossville",10312,22,"10312","13 - 17 years",881,4033,"2019 - 20","Q2","Flu",NA
+"Bloomfield/Freshkills Park",10314,24,"10314","13 - 17 years",1356,5661,"2019 - 20","Q2","Flu",NA
+"Concourse/Melrose",10451,46,"10451","13 - 17 years",1584,3468,"2019 - 20","Q2","Flu",NA
+"Concourse/Highbridge",10452,51,"10452","13 - 17 years",2868,5611,"2019 - 20","Q2","Flu",NA
+"Morris Heights/Mount Hope/University Heights",10453,46,"10453","13 - 17 years",2715,5920,"2019 - 20","Q2","Flu",NA
+"Mott Haven/Port Morris",10454,48,"10454","13 - 17 years",1473,3093,"2019 - 20","Q2","Flu",NA
+"Mott Haven",10455,47,"10455","13 - 17 years",1532,3261,"2019 - 20","Q2","Flu",NA
+"Claremont/Morrisania",10456,48,"10456","13 - 17 years",3225,6786,"2019 - 20","Q2","Flu",NA
+"Belmont/Claremont/Mount Hope/Tremont",10457,44,"10457","13 - 17 years",2619,6003,"2019 - 20","Q2","Flu",NA
+"Belmont/Fordham University/Kingsbridge",10458,43,"10458","13 - 17 years",2495,5747,"2019 - 20","Q2","Flu",NA
+"Charlotte Gardens/Hunts Point",10459,38,"10459","13 - 17 years",1473,3840,"2019 - 20","Q2","Flu",NA
+"Charlotte Gardens/Tremont/Van Nest/West Farms",10460,37,"10460","13 - 17 years",1644,4497,"2019 - 20","Q2","Flu",NA
+"Morris Park/Pelham Bay/Westchester Square",10461,33,"10461","13 - 17 years",930,2839,"2019 - 20","Q2","Flu",NA
+"Parkchester/Pelham Parkway/Van Nest/Westchester Square",10462,45,"10462","13 - 17 years",1959,4396,"2019 - 20","Q2","Flu",NA
+"Kingsbridge/Marble Hill/Riverdale/Spuyten Duyvil",10463,40,"10463","13 - 17 years",1458,3600,"2019 - 20","Q2","Flu",NA
+"City Island",10464,99,"10464","13 - 17 years",264,257,"2019 - 20","Q2","Flu",NA
+"Country Club/Throgs Neck",10465,23,"10465","13 - 17 years",683,2918,"2019 - 20","Q2","Flu",NA
+"Edenwald/Wakefield",10466,30,"10466","13 - 17 years",1530,5106,"2019 - 20","Q2","Flu",NA
+"Allerton/Norwood/Pelham Parkway/Williamsbridge",10467,43,"10467","13 - 17 years",2681,6189,"2019 - 20","Q2","Flu",NA
+"Fordham/Kingsbridge/University Heights",10468,42,"10468","13 - 17 years",2284,5500,"2019 - 20","Q2","Flu",NA
+"Allerton/Baychester/Pelham Gardens/Williamsbridge",10469,28,"10469","13 - 17 years",1335,4849,"2019 - 20","Q2","Flu",NA
+"Wakefield/Woodlawn",10470,29,"10470","13 - 17 years",247,855,"2019 - 20","Q2","Flu",NA
+"Fieldston/North Riverdale/Riverdale",10471,39,"10471","13 - 17 years",365,927,"2019 - 20","Q2","Flu",NA
+"Soundview",10472,48,"10472","13 - 17 years",2069,4355,"2019 - 20","Q2","Flu",NA
+"Castle Hill/Clason Point/Soundview",10473,30,"10473","13 - 17 years",1329,4414,"2019 - 20","Q2","Flu",NA
+"Hunts Point",10474,51,"10474","13 - 17 years",433,842,"2019 - 20","Q2","Flu",NA
+"Co-op City/Edenwald",10475,26,"10475","13 - 17 years",567,2171,"2019 - 20","Q2","Flu",NA
+"Bellerose/Douglaston-Little Neck",11004,84,"11004, 11005","13 - 17 years",965,1142,"2019 - 20","Q2","Flu",NA
+"Astoria (South)/Long Island City/Sunnyside",11101,43,"11101","13 - 17 years",582,1352,"2019 - 20","Q2","Flu",NA
+"Astoria (North)",11102,49,"11102","13 - 17 years",599,1217,"2019 - 20","Q2","Flu",NA
+"Astoria (North)/Astoria (South)",11103,39,"11103","13 - 17 years",541,1377,"2019 - 20","Q2","Flu",NA
+"Sunnyside",11104,55,"11104","13 - 17 years",532,960,"2019 - 20","Q2","Flu",NA
+"Ditmars Steinway",11105,35,"11105","13 - 17 years",483,1397,"2019 - 20","Q2","Flu",NA
+"Astoria (South)",11106,47,"11106","13 - 17 years",710,1516,"2019 - 20","Q2","Flu",NA
+"Long Island City",11109,67,"11109","13 - 17 years",37,55,"2019 - 20","Q2","Flu",NA
+"Brooklyn Heights/DUMBO/Downtown Brooklyn",11201,47,"11201","13 - 17 years",833,1778,"2019 - 20","Q2","Flu",NA
+"East Flatbush (North)/East Flatbush (South)",11203,29,"11203","13 - 17 years",1142,3888,"2019 - 20","Q2","Flu",NA
+"Bensonhurst/Mapleton",11204,37,"11204","13 - 17 years",2036,5534,"2019 - 20","Q2","Flu",NA
+"Bedford-Stuyvesant (West)/Clinton Hill/Fort Greene",11205,27,"11205","13 - 17 years",635,2354,"2019 - 20","Q2","Flu",NA
+"Williamsburg (South)",11206,21,"11206","13 - 17 years",1313,6189,"2019 - 20","Q2","Flu",NA
+"Cypress Hills/East New York",11207,29,"11207","13 - 17 years",1933,6741,"2019 - 20","Q2","Flu",NA
+"Cypress Hills/East New York",11208,34,"11208","13 - 17 years",2667,7938,"2019 - 20","Q2","Flu",NA
+"Bay Ridge/Fort Hamilton",11209,31,"11209","13 - 17 years",1068,3428,"2019 - 20","Q2","Flu",NA
+"Flatlands/Midwood",11210,34,"11210","13 - 17 years",1463,4353,"2019 - 20","Q2","Flu",NA
+"East Williamsburg/Williamsburg (North)/Williamsburg (South)",11211,13,"11211, 11249","13 - 17 years",884,6815,"2019 - 20","Q2","Flu",NA
+"Ocean Hill-Brownsville",11212,33,"11212","13 - 17 years",1959,6000,"2019 - 20","Q2","Flu",NA
+"Crown Heights (East)",11213,21,"11213","13 - 17 years",961,4588,"2019 - 20","Q2","Flu",NA
+"Bath Beach/Bensonhurst/Gravesend",11214,46,"11214","13 - 17 years",2198,4757,"2019 - 20","Q2","Flu",NA
+"Gowanus/Park Slope/Windsor Terrace",11215,55,"11215","13 - 17 years",1377,2517,"2019 - 20","Q2","Flu",NA
+"Bedford-Stuyvesant (West)/Crown Heights (West)",11216,27,"11216","13 - 17 years",644,2413,"2019 - 20","Q2","Flu",NA
+"Boerum Hill/Park Slope",11217,43,"11217, 11243","13 - 17 years",558,1295,"2019 - 20","Q2","Flu",NA
+"Kensington/Windsor Terrace",11218,44,"11218","13 - 17 years",2095,4790,"2019 - 20","Q2","Flu",NA
+"Borough Park",11219,40,"11219","13 - 17 years",2861,7140,"2019 - 20","Q2","Flu",NA
+"Sunset Park",11220,83,"11220","13 - 17 years",4189,5039,"2019 - 20","Q2","Flu",NA
+"Bedford-Stuyvesant (East)/Bushwick",11221,27,"11221","13 - 17 years",1370,5106,"2019 - 20","Q2","Flu",NA
+"Greenpoint",11222,16,"11222","13 - 17 years",211,1287,"2019 - 20","Q2","Flu",NA
+"Gravesend/Homecrest",11223,38,"11223","13 - 17 years",1824,4778,"2019 - 20","Q2","Flu",NA
+"Brighton Beach/Coney Island/Seagate",11224,23,"11224","13 - 17 years",628,2774,"2019 - 20","Q2","Flu",NA
+"Crown Heights (West)/Prospect Lefferts Gardens",11225,27,"11225","13 - 17 years",797,2991,"2019 - 20","Q2","Flu",NA
+"Flatbush/Prospect Lefferts Gardens",11226,41,"11226","13 - 17 years",2114,5210,"2019 - 20","Q2","Flu",NA
+"Bath Beach/Dyker Heights",11228,40,"11228","13 - 17 years",1005,2525,"2019 - 20","Q2","Flu",NA
+"Gerritsen Beach/Homecrest/Sheepshead Bay",11229,30,"11229","13 - 17 years",1434,4794,"2019 - 20","Q2","Flu",NA
+"Midwood",11230,32,"11230","13 - 17 years",2028,6374,"2019 - 20","Q2","Flu",NA
+"Carroll Gardens/Cobble Hill/Red Hook",11231,46,"11231","13 - 17 years",647,1421,"2019 - 20","Q2","Flu",NA
+"Sunset Park",11232,68,"11232","13 - 17 years",927,1367,"2019 - 20","Q2","Flu",NA
+"Bedford-Stuyvesant (East)/Ocean Hill-Brownsville",11233,21,"11233","13 - 17 years",1058,5070,"2019 - 20","Q2","Flu",NA
+"Bergen Beach/Flatlands/Marine Park/Mill Basin",11234,26,"11234","13 - 17 years",1437,5425,"2019 - 20","Q2","Flu",NA
+"Brighton Beach/Manhattan Beach/Sheepshead Bay",11235,33,"11235","13 - 17 years",1209,3670,"2019 - 20","Q2","Flu",NA
+"Canarsie",11236,26,"11236","13 - 17 years",1612,6183,"2019 - 20","Q2","Flu",NA
+"Bushwick/East Williamsburg",11237,54,"11237","13 - 17 years",1334,2450,"2019 - 20","Q2","Flu",NA
+"Clinton Hill/Prospect Heights",11238,43,"11238","13 - 17 years",634,1465,"2019 - 20","Q2","Flu",NA
+"East New York",11239,20,"11239","13 - 17 years",181,904,"2019 - 20","Q2","Flu",NA
+"Flushing/Murray Hill",11354,70,"11354","13 - 17 years",1383,1987,"2019 - 20","Q2","Flu",NA
+"Flushing/Murray Hill/Queensboro Hill",11355,91,"11355","13 - 17 years",2808,3102,"2019 - 20","Q2","Flu",NA
+"College Point",11356,42,"11356","13 - 17 years",658,1559,"2019 - 20","Q2","Flu",NA
+"Whitestone",11357,33,"11357","13 - 17 years",702,2117,"2019 - 20","Q2","Flu",NA
+"Auburndale/Murray Hill",11358,48,"11358","13 - 17 years",893,1874,"2019 - 20","Q2","Flu",NA
+"Bayside (North)",11360,43,"11360","13 - 17 years",349,808,"2019 - 20","Q2","Flu",NA
+"Bayside (North)/Bayside (South)",11361,40,"11361","13 - 17 years",644,1611,"2019 - 20","Q2","Flu",NA
+"Douglaston-Little Neck",11362,40,"11362","13 - 17 years",377,936,"2019 - 20","Q2","Flu",NA
+"Douglaston-Little Neck",11363,37,"11363","13 - 17 years",158,422,"2019 - 20","Q2","Flu",NA
+"Bayside (South)/Oakland Gardens",11364,40,"11364","13 - 17 years",848,2138,"2019 - 20","Q2","Flu",NA
+"Auburndale/Fresh Meadows/Pomonok/Utopia",11365,41,"11365","13 - 17 years",1054,2557,"2019 - 20","Q2","Flu",NA
+"Fresh Meadows/Hillcrest",11366,37,"11366","13 - 17 years",273,743,"2019 - 20","Q2","Flu",NA
+"Kew Gardens Hills/Pomonok",11367,39,"11367","13 - 17 years",845,2177,"2019 - 20","Q2","Flu",NA
+"Corona/North Corona",11368,68,"11368","13 - 17 years",4327,6362,"2019 - 20","Q2","Flu",NA
+"Airport/East Elmhurst",11369,59,"11369","13 - 17 years",1130,1909,"2019 - 20","Q2","Flu",NA
+"Jackson Heights/Rikers Island",11370,53,"11370","13 - 17 years",718,1352,"2019 - 20","Q2","Flu",NA
+"Jackson Heights",11372,72,"11372","13 - 17 years",2017,2789,"2019 - 20","Q2","Flu",NA
+"Elmhurst",11373,73,"11373","13 - 17 years",3405,4663,"2019 - 20","Q2","Flu",NA
+"Rego Park",11374,41,"11374","13 - 17 years",711,1754,"2019 - 20","Q2","Flu",NA
+"Forest Hills",11375,42,"11375","13 - 17 years",1081,2574,"2019 - 20","Q2","Flu",NA
+"Woodside",11377,63,"11377","13 - 17 years",2480,3953,"2019 - 20","Q2","Flu",NA
+"Maspeth",11378,30,"11378","13 - 17 years",665,2202,"2019 - 20","Q2","Flu",NA
+"Middle Village",11379,29,"11379","13 - 17 years",553,1926,"2019 - 20","Q2","Flu",NA
+"Glendale/Ridgewood",11385,25,"11385","13 - 17 years",1651,6728,"2019 - 20","Q2","Flu",NA
+"Cambria Heights",11411,27,"11411","13 - 17 years",302,1099,"2019 - 20","Q2","Flu",NA
+"St. Albans",11412,27,"11412","13 - 17 years",652,2435,"2019 - 20","Q2","Flu",NA
+"Laurelton/Rosedale",11413,21,"11413","13 - 17 years",578,2708,"2019 - 20","Q2","Flu",NA
+"Hamilton Beach/Howard Beach/Lindenwood",11414,23,"11414","13 - 17 years",368,1586,"2019 - 20","Q2","Flu",NA
+"Kew Gardens",11415,36,"11415","13 - 17 years",324,889,"2019 - 20","Q2","Flu",NA
+"Ozone Park",11416,42,"11416","13 - 17 years",842,1988,"2019 - 20","Q2","Flu",NA
+"Ozone Park",11417,38,"11417","13 - 17 years",823,2138,"2019 - 20","Q2","Flu",NA
+"Richmond Hill",11418,50,"11418","13 - 17 years",1123,2260,"2019 - 20","Q2","Flu",NA
+"Richmond Hill/South Ozone Park",11419,42,"11419","13 - 17 years",1287,3055,"2019 - 20","Q2","Flu",NA
+"South Ozone Park",11420,36,"11420","13 - 17 years",1162,3265,"2019 - 20","Q2","Flu",NA
+"Woodhaven",11421,36,"11421","13 - 17 years",987,2764,"2019 - 20","Q2","Flu",NA
+"Rosedale",11422,21,"11422","13 - 17 years",431,2023,"2019 - 20","Q2","Flu",NA
+"Hollis/Holliswood",11423,47,"11423","13 - 17 years",759,1618,"2019 - 20","Q2","Flu",NA
+"Bellerose",11426,34,"11426","13 - 17 years",392,1168,"2019 - 20","Q2","Flu",NA
+"Bellerose/Hollis Hills/Holliswood",11427,38,"11427","13 - 17 years",490,1277,"2019 - 20","Q2","Flu",NA
+"Queens Village",11428,39,"11428","13 - 17 years",439,1120,"2019 - 20","Q2","Flu",NA
+"Queens Village",11429,58,"11001, 11429","13 - 17 years",933,1614,"2019 - 20","Q2","Flu",NA
+"Hillcrest/Jamaica Estates/Jamaica Hills",11432,69,"11432","13 - 17 years",2185,3174,"2019 - 20","Q2","Flu",NA
+"Jamaica",11433,35,"11433","13 - 17 years",892,2545,"2019 - 20","Q2","Flu",NA
+"Airport/South Jamaica/Springfield Gardens/St. Albans",11434,26,"11434","13 - 17 years",1076,4120,"2019 - 20","Q2","Flu",NA
+"Briarwood/Jamaica",11435,49,"11435","13 - 17 years",1579,3253,"2019 - 20","Q2","Flu",NA
+"South Jamaica/South Ozone Park",11436,29,"11436","13 - 17 years",401,1367,"2019 - 20","Q2","Flu",NA
+"Edgemere/Far Rockaway",11691,37,"11691","13 - 17 years",1773,4853,"2019 - 20","Q2","Flu",NA
+"Arverne/Edgemere",11692,25,"11692","13 - 17 years",427,1685,"2019 - 20","Q2","Flu",NA
+"Arverne/Broad Channel",11693,19,"11693","13 - 17 years",177,917,"2019 - 20","Q2","Flu",NA
+"Belle Harbor-Neponsit/Rockaway Park",11694,25,"11694","13 - 17 years",335,1330,"2019 - 20","Q2","Flu",NA
+"Breezy Point",11697,34,"11697","13 - 17 years",86,256,"2019 - 20","Q2","Flu",NA
