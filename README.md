@@ -40,8 +40,12 @@ The numerators include children in the CIR who meet the following criteria:
 - Not documented in the CIR as having moved out of NYC or deceased 
 - Had a valid NYC ZIP code listed in the CIR as of the coverage assessment date
 
+Historical data of years 2017 to 2024 were pulled from the CIR on May 16, 2025. New data are pulled from the CIR one to two months after the coverage assessment date.
+
 **Denominator** (POP_DENOMINATOR)  
-The denominators for routine vaccination coverage and seasonal influenza vaccination coverage estimates are based on the most recent denominators available. The NYC Health Department produces these estimates (called Vintage) using data from the U.S. Census Bureau and the NYC Department of City Planning. When new Vintage population estimates are released, vaccination coverage on the Childhood Vaccination Data page are adjusted accordingly using the same numerators and the new population estimates. Vaccination data using previous estimates are archived. 
+The denominators for routine vaccination coverage and seasonal influenza vaccination coverage estimates are based on the most recent denominators (population estimates) available at the NYC Health Department. The NYC Health Department produces these estimates (called Vintage) using data from the U.S. Census Bureau and the NYC Department of City Planning. The Vintage year is the year the estimates were produced and usually with one year lag in the population estimate year. For example, Vintage 2022 includes population estimates for years 2000 to 2021. 
+
+On the Childhood Vaccination Data page, the denominators for historical data of years 2017 to 2019 use respective population estimate years in Vintage 2022. The denominators for historical data of years 2020 to 2023 use respective population estimate years in DOHMH Vintage 2024. The denominators for year 2024 use the most recent population estimates available in year 2023 in DOHMH Vintage 2024. The denominators for new data use the most recent population estimates available. For details of the source of the denominators, please look at the two main datasets under ‘Repository Contents’. 
 
 **Vaccination Rate** (PERC_VAC)  
 Vaccination coverage is determined by taking the numerator (COUNT_PEOPLE_VAC) divided by the denominator (POP_DENOMINATOR). Vaccination coverage exceeding 99% are capped at 99%. Vaccination coverages with numerators less than 10 (9 or fewer) are suppressed due to small numbers. Vaccination coverages with denominators less than 50 should be interpreted with caution due to small population estimates. This may happen with small demographic and geographic categories. 
@@ -149,10 +153,10 @@ New York City Department of Health and Mental Hygiene. Childhood Vaccination Dat
 
 ## Repository Contents 
 
-**demographic /**
+**demographic/**
 This folder contains vaccination data stratified by demographic types. 
 
-**geographic /**
+**geographic/**
 This folder contains vaccination data stratified by geographic types. 
 
 **visualizations/**
