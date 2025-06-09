@@ -18,5 +18,5 @@ QUARTER |Quarter of vaccination coverage, in calendar year
 RACE_ETHNICITY |Race and ethnicity 
 POP_DENOMINATOR_YEAR |Year of population estimates 
 POP_DENOMINATOR |Population estimates, denominator for vaccination coverage 
-COUNT_PEOPLE_VAC |Number of people who received the number of required doses of the vaccine series, numerator for vaccination coverage 
-PERC_VAC |Point estimates of vaccination coverage, percentage rounded to the nearest whole number, capped at 99% of the population who received the number of required doses of the vaccine series
+COUNT_PEOPLE_VAC |Number of people who received the number of recommended doses of the vaccine series, numerator for vaccination coverage 
+PERC_VAC |Point estimates of vaccination coverage, percentage rounded to the nearest whole number, capped at 99% of the population who received the number of recommended doses of the vaccine series
