@@ -1,5 +1,4 @@
 "YEAR_COVERAGE","QUARTER","AGE_GROUP","VACCINE_GROUP","PERC_VAC"
-2017,"Q4","13 years","HPV",44
 2018,"Q4","13 years","HPV",45
 2019,"Q4","13 years","HPV",48
 2020,"Q4","13 years","HPV",48
@@ -7,4 +6,4 @@
 2022,"Q4","13 years","HPV",47
 2023,"Q4","13 years","HPV",47
 2024,"Q4","13 years","HPV",46
-2025,"","13 years","HPV",
+2025,"Q2","13 years","HPV",46
