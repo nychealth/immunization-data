@@ -1,6 +1,6 @@
-"YEAR_COVERAGE","QUARTER","AGE_GROUP","VACCINE_GROUP","Citywide","Asian, non-Hispanic","Black, non-Hispanic","Hispanic/Latino","White, non-Hispanic"
-2021,"Q4","24 - 35 months","Hib",72,99,66,73,61
-2022,"Q4","24 - 35 months","Hib",72,99,68,74,57
-2023,"Q4","24 - 35 months","Hib",76,99,69,79,62
-2024,"Q4","24 - 35 months","Hib",77,99,69,81,61
-2025,"Q2","24 - 35 months","Hib",75,99,68,81,60
+"YEAR_COVERAGE","QUARTER","AGE_GROUP","VACCINE_GROUP","DOSES","Citywide","Asian, non-Hispanic","Black, non-Hispanic","Hispanic/Latino","White, non-Hispanic"
+2021,"Q4","24 - 35 months","Hib","3 or 4",72,99,66,73,61
+2022,"Q4","24 - 35 months","Hib","3 or 4",71,98,67,73,57
+2023,"Q4","24 - 35 months","Hib","3 or 4",74,99,67,76,61
+2024,"Q4","24 - 35 months","Hib","3 or 4",75,99,69,77,60
+2025,"Q4","24 - 35 months","Hib","3 or 4",72,97,66,74,58

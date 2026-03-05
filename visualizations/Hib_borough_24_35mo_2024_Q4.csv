@@ -1,7 +1,7 @@
-"YEAR_COVERAGE","QUARTER","AGE_GROUP","VACCINE_GROUP","BOROUGH","PERC_VAC"
-2024,"Q4","24 - 35 months","Hib","Citywide",77
-2024,"Q4","24 - 35 months","Hib","Bronx",81
-2024,"Q4","24 - 35 months","Hib","Brooklyn",66
-2024,"Q4","24 - 35 months","Hib","Manhattan",86
-2024,"Q4","24 - 35 months","Hib","Queens",86
-2024,"Q4","24 - 35 months","Hib","Staten Island",69
+"YEAR_COVERAGE","QUARTER","AGE_GROUP","VACCINE_GROUP","DOSES","BOROUGH","PERC_VAC"
+2024,"Q4","24 - 35 months","Hib","3 or 4","Citywide",75
+2024,"Q4","24 - 35 months","Hib","3 or 4","Bronx",79
+2024,"Q4","24 - 35 months","Hib","3 or 4","Brooklyn",65
+2024,"Q4","24 - 35 months","Hib","3 or 4","Manhattan",84
+2024,"Q4","24 - 35 months","Hib","3 or 4","Queens",83
+2024,"Q4","24 - 35 months","Hib","3 or 4","Staten Island",68
