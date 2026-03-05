@@ -1,9 +1,10 @@
-"YEAR_COVERAGE","QUARTER","AGE_GROUP","VACCINE_GROUP","PERC_VAC"
-2018,"Q4","24 - 35 months","MMR",84
-2019,"Q4","24 - 35 months","MMR",86
-2020,"Q4","24 - 35 months","MMR",87
-2021,"Q4","24 - 35 months","MMR",88
-2022,"Q4","24 - 35 months","MMR",88
-2023,"Q4","24 - 35 months","MMR",94
-2024,"Q4","24 - 35 months","MMR",95
-2025,"Q2","24 - 35 months","MMR",93
+"YEAR_COVERAGE","QUARTER","AGE_GROUP","VACCINE_GROUP","DOSES","PERC_VAC"
+2018,"Q4","24 - 35 months","MMR",1,84
+2019,"Q4","24 - 35 months","MMR",1,86
+2020,"Q4","24 - 35 months","MMR",1,87
+2021,"Q4","24 - 35 months","MMR",1,88
+2022,"Q4","24 - 35 months","MMR",1,88
+2023,"Q4","24 - 35 months","MMR",1,92
+2024,"Q4","24 - 35 months","MMR",1,93
+2025,"Q4","24 - 35 months","MMR",1,89
+2026,"","24 - 35 months","MMR",,
