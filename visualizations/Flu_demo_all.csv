@@ -1,6 +1,6 @@
-"YEAR_COVERAGE","QUARTER","AGE_GROUP","VACCINE_GROUP","Citywide","Asian, non-Hispanic","Black, non-Hispanic","Hispanic/Latino","White, non-Hispanic"
-"2024 - 25","Q2","6 months - 17 years","Flu",43,70,32,45,32
-"2023 - 24","Q2","6 months - 17 years","Flu",45,72,32,47,33
-"2022 - 23","Q2","6 months - 17 years","Flu",47,76,35,49,35
-"2021 - 22","Q2","6 months - 17 years","Flu",47,77,35,48,37
-"2020 - 21","Q2","6 months - 17 years","Flu",51,79,36,51,41
+"YEAR_COVERAGE","QUARTER","AGE_GROUP","VACCINE_GROUP","DOSES","Citywide","Asian, non-Hispanic","Black, non-Hispanic","Hispanic/Latino","White, non-Hispanic"
+"2021 - 22","Q2","6 months - 17 years","Flu",1,47,76,35,48,36
+"2022 - 23","Q2","6 months - 17 years","Flu",1,46,74,34,47,35
+"2023 - 24","Q2","6 months - 17 years","Flu",1,44,71,32,46,33
+"2024 - 25","Q2","6 months - 17 years","Flu",1,43,69,32,44,32
+"2025 - 26","Q4","6 months - 17 years","Flu",1,32,57,22,28,29

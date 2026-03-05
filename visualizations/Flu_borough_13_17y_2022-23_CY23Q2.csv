@@ -1,7 +1,7 @@
-"YEAR_COVERAGE","QUARTER","AGE_GROUP","VACCINE_GROUP","BOROUGH","PERC_VAC"
-"2022 - 23","Q2","13 - 17 years","Flu","Citywide",39
-"2022 - 23","Q2","13 - 17 years","Flu","Bronx",39
-"2022 - 23","Q2","13 - 17 years","Flu","Brooklyn",32
-"2022 - 23","Q2","13 - 17 years","Flu","Manhattan",49
-"2022 - 23","Q2","13 - 17 years","Flu","Queens",46
-"2022 - 23","Q2","13 - 17 years","Flu","Staten Island",24
+"YEAR_COVERAGE","QUARTER","AGE_GROUP","VACCINE_GROUP","DOSES","BOROUGH","PERC_VAC"
+"2022 - 23","Q2","13 - 17 years","Flu",1,"Citywide",38
+"2022 - 23","Q2","13 - 17 years","Flu",1,"Bronx",39
+"2022 - 23","Q2","13 - 17 years","Flu",1,"Brooklyn",31
+"2022 - 23","Q2","13 - 17 years","Flu",1,"Manhattan",48
+"2022 - 23","Q2","13 - 17 years","Flu",1,"Queens",45
+"2022 - 23","Q2","13 - 17 years","Flu",1,"Staten Island",24
