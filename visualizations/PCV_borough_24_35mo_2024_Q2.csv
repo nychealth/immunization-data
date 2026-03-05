@@ -1,7 +1,7 @@
-"YEAR_COVERAGE","QUARTER","AGE_GROUP","VACCINE_GROUP","BOROUGH","PERC_VAC"
-2024,"Q2","24 - 35 months","PCV","Citywide",74
-2024,"Q2","24 - 35 months","PCV","Bronx",79
-2024,"Q2","24 - 35 months","PCV","Brooklyn",62
-2024,"Q2","24 - 35 months","PCV","Manhattan",87
-2024,"Q2","24 - 35 months","PCV","Queens",83
-2024,"Q2","24 - 35 months","PCV","Staten Island",63
+"YEAR_COVERAGE","QUARTER","AGE_GROUP","VACCINE_GROUP","DOSES","BOROUGH","PERC_VAC"
+2024,"Q2","24 - 35 months","PCV",4,"Citywide",73
+2024,"Q2","24 - 35 months","PCV",4,"Bronx",77
+2024,"Q2","24 - 35 months","PCV",4,"Brooklyn",62
+2024,"Q2","24 - 35 months","PCV",4,"Manhattan",85
+2024,"Q2","24 - 35 months","PCV",4,"Queens",80
+2024,"Q2","24 - 35 months","PCV",4,"Staten Island",63
