@@ -1,7 +1,7 @@
-"YEAR_COVERAGE","QUARTER","AGE_GROUP","VACCINE_GROUP","BOROUGH","PERC_VAC"
-2025,"Q2","24 - 35 months","DTaP","Citywide",77
-2025,"Q2","24 - 35 months","DTaP","Bronx",81
-2025,"Q2","24 - 35 months","DTaP","Brooklyn",67
-2025,"Q2","24 - 35 months","DTaP","Manhattan",85
-2025,"Q2","24 - 35 months","DTaP","Queens",85
-2025,"Q2","24 - 35 months","DTaP","Staten Island",70
+"YEAR_COVERAGE","QUARTER","AGE_GROUP","VACCINE_GROUP","DOSES","BOROUGH","PERC_VAC"
+2025,"Q2","24 - 35 months","DTaP",4,"Citywide",75
+2025,"Q2","24 - 35 months","DTaP",4,"Bronx",79
+2025,"Q2","24 - 35 months","DTaP",4,"Brooklyn",66
+2025,"Q2","24 - 35 months","DTaP",4,"Manhattan",83
+2025,"Q2","24 - 35 months","DTaP",4,"Queens",83
+2025,"Q2","24 - 35 months","DTaP",4,"Staten Island",69
