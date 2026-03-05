@@ -1,9 +1,10 @@
-"YEAR_COVERAGE","QUARTER","AGE_GROUP","VACCINE_GROUP","PERC_VAC"
-2018,"Q4","13 - 17 years","HPV",69
-2019,"Q4","13 - 17 years","HPV",72
-2020,"Q4","13 - 17 years","HPV",72
-2021,"Q4","13 - 17 years","HPV",75
-2022,"Q4","13 - 17 years","HPV",76
-2023,"Q4","13 - 17 years","HPV",77
-2024,"Q4","13 - 17 years","HPV",76
-2025,"Q2","13 - 17 years","HPV",75
+"YEAR_COVERAGE","QUARTER","AGE_GROUP","VACCINE_GROUP","Perc_vac_doses_1","Perc_vac_doses_2_or_3"
+2018,"Q4","13 - 17 years","HPV",84,69
+2019,"Q4","13 - 17 years","HPV",89,72
+2020,"Q4","13 - 17 years","HPV",89,72
+2021,"Q4","13 - 17 years","HPV",92,75
+2022,"Q4","13 - 17 years","HPV",93,76
+2023,"Q4","13 - 17 years","HPV",94,76
+2024,"Q4","13 - 17 years","HPV",92,74
+2025,"Q4","13 - 17 years","HPV",89,72
+2026,"","13 - 17 years","HPV",,
