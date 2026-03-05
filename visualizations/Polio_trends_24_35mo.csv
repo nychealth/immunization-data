@@ -1,9 +1,10 @@
-"YEAR_COVERAGE","QUARTER","AGE_GROUP","VACCINE_GROUP","PERC_VAC"
-2018,"Q4","24 - 35 months","Polio",86
-2019,"Q4","24 - 35 months","Polio",86
-2020,"Q4","24 - 35 months","Polio",89
-2021,"Q4","24 - 35 months","Polio",92
-2022,"Q4","24 - 35 months","Polio",90
-2023,"Q4","24 - 35 months","Polio",95
-2024,"Q4","24 - 35 months","Polio",96
-2025,"Q2","24 - 35 months","Polio",95
+"YEAR_COVERAGE","QUARTER","AGE_GROUP","VACCINE_GROUP","DOSES","PERC_VAC"
+2018,"Q4","24 - 35 months","Polio",3,86
+2019,"Q4","24 - 35 months","Polio",3,86
+2020,"Q4","24 - 35 months","Polio",3,89
+2021,"Q4","24 - 35 months","Polio",3,92
+2022,"Q4","24 - 35 months","Polio",3,90
+2023,"Q4","24 - 35 months","Polio",3,92
+2024,"Q4","24 - 35 months","Polio",3,94
+2025,"Q4","24 - 35 months","Polio",3,91
+2026,"","24 - 35 months","Polio",,
