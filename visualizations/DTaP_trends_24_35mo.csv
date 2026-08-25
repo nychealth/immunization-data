@@ -1,5 +1,4 @@
 "YEAR_COVERAGE","QUARTER","AGE_GROUP","VACCINE_GROUP","DOSES","PERC_VAC"
-2018,"Q4","24 - 35 months","DTaP",4,71
 2019,"Q4","24 - 35 months","DTaP",4,72
 2020,"Q4","24 - 35 months","DTaP",4,72
 2021,"Q4","24 - 35 months","DTaP",4,73
@@ -7,4 +6,4 @@
 2023,"Q4","24 - 35 months","DTaP",4,75
 2024,"Q4","24 - 35 months","DTaP",4,77
 2025,"Q4","24 - 35 months","DTaP",4,73
-2026,"","24 - 35 months","DTaP",,
+2026,"Q2","24 - 35 months","DTaP",4,72
