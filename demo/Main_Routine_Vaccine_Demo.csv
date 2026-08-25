@@ -1,4 +1,157 @@
 DATE_CREATED,AGE_GROUP,DOB_RANGE,VACCINE_GROUP,DOSES,YEAR_COVERAGE,QUARTER,RACE_ETHNICITY,POP_DENOMINATOR_YEAR,POP_DENOMINATOR,COUNT_PEOPLE_VAC,PERC_VAC
+8/9/2026,24 - 35 months,07/01/2023 - 06/30/2024,4313314,4:3:1:3:3:1:4,2026,Q2,"American Indian, non-Hispanic",2025 Vintage Estimates for 2024,195.45,138,71
+8/9/2026,24 - 35 months,07/01/2023 - 06/30/2024,4313314,4:3:1:3:3:1:4,2026,Q2,"Asian, non-Hispanic",2025 Vintage Estimates for 2024,11163.81,9663,87
+8/9/2026,24 - 35 months,07/01/2023 - 06/30/2024,4313314,4:3:1:3:3:1:4,2026,Q2,"Black, non-Hispanic",2025 Vintage Estimates for 2024,17122.95,9337,55
+8/9/2026,24 - 35 months,07/01/2023 - 06/30/2024,4313314,4:3:1:3:3:1:4,2026,Q2,Hispanic/Latino,2025 Vintage Estimates for 2024,29829.53,19300,65
+8/9/2026,24 - 35 months,07/01/2023 - 06/30/2024,4313314,4:3:1:3:3:1:4,2026,Q2,"Native Hawaiian/PI, non-Hispanic",2025 Vintage Estimates for 2024,47.08,26,55
+8/9/2026,24 - 35 months,07/01/2023 - 06/30/2024,4313314,4:3:1:3:3:1:4,2026,Q2,Other,2025 Vintage Estimates for 2024,,689,
+8/9/2026,24 - 35 months,07/01/2023 - 06/30/2024,4313314,4:3:1:3:3:1:4,2026,Q2,"Two or more races, non-Hispanic",2025 Vintage Estimates for 2024,3307.22,511,15
+8/9/2026,24 - 35 months,07/01/2023 - 06/30/2024,4313314,4:3:1:3:3:1:4,2026,Q2,Unknown,2025 Vintage Estimates for 2024,,1528,
+8/9/2026,24 - 35 months,07/01/2023 - 06/30/2024,4313314,4:3:1:3:3:1:4,2026,Q2,"White, non-Hispanic",2025 Vintage Estimates for 2024,26998.5,12496,46
+8/9/2026,24 - 35 months,07/01/2023 - 06/30/2024,DTaP,4,2026,Q2,"American Indian, non-Hispanic",2025 Vintage Estimates for 2024,195.45,165,84
+8/9/2026,24 - 35 months,07/01/2023 - 06/30/2024,DTaP,4,2026,Q2,"Asian, non-Hispanic",2025 Vintage Estimates for 2024,11163.81,10935,98
+8/9/2026,24 - 35 months,07/01/2023 - 06/30/2024,DTaP,4,2026,Q2,"Black, non-Hispanic",2025 Vintage Estimates for 2024,17122.95,11140,65
+8/9/2026,24 - 35 months,07/01/2023 - 06/30/2024,DTaP,4,2026,Q2,Hispanic/Latino,2025 Vintage Estimates for 2024,29829.53,21960,74
+8/9/2026,24 - 35 months,07/01/2023 - 06/30/2024,DTaP,4,2026,Q2,"Native Hawaiian/PI, non-Hispanic",2025 Vintage Estimates for 2024,47.08,32,68
+8/9/2026,24 - 35 months,07/01/2023 - 06/30/2024,DTaP,4,2026,Q2,Other,2025 Vintage Estimates for 2024,,908,
+8/9/2026,24 - 35 months,07/01/2023 - 06/30/2024,DTaP,4,2026,Q2,"Two or more races, non-Hispanic",2025 Vintage Estimates for 2024,3307.22,646,20
+8/9/2026,24 - 35 months,07/01/2023 - 06/30/2024,DTaP,4,2026,Q2,Unknown,2025 Vintage Estimates for 2024,,2141,
+8/9/2026,24 - 35 months,07/01/2023 - 06/30/2024,DTaP,4,2026,Q2,"White, non-Hispanic",2025 Vintage Estimates for 2024,26998.5,16235,60
+8/9/2026,24 - 35 months,07/01/2023 - 06/30/2024,Polio,3,2026,Q2,"American Indian, non-Hispanic",2025 Vintage Estimates for 2024,195.45,210,99
+8/9/2026,24 - 35 months,07/01/2023 - 06/30/2024,Polio,3,2026,Q2,"Asian, non-Hispanic",2025 Vintage Estimates for 2024,11163.81,12813,99
+8/9/2026,24 - 35 months,07/01/2023 - 06/30/2024,Polio,3,2026,Q2,"Black, non-Hispanic",2025 Vintage Estimates for 2024,17122.95,13829,81
+8/9/2026,24 - 35 months,07/01/2023 - 06/30/2024,Polio,3,2026,Q2,Hispanic/Latino,2025 Vintage Estimates for 2024,29829.53,26656,89
+8/9/2026,24 - 35 months,07/01/2023 - 06/30/2024,Polio,3,2026,Q2,"Native Hawaiian/PI, non-Hispanic",2025 Vintage Estimates for 2024,47.08,42,89
+8/9/2026,24 - 35 months,07/01/2023 - 06/30/2024,Polio,3,2026,Q2,Other,2025 Vintage Estimates for 2024,,1249,
+8/9/2026,24 - 35 months,07/01/2023 - 06/30/2024,Polio,3,2026,Q2,"Two or more races, non-Hispanic",2025 Vintage Estimates for 2024,3307.22,802,24
+8/9/2026,24 - 35 months,07/01/2023 - 06/30/2024,Polio,3,2026,Q2,Unknown,2025 Vintage Estimates for 2024,,2956,
+8/9/2026,24 - 35 months,07/01/2023 - 06/30/2024,Polio,3,2026,Q2,"White, non-Hispanic",2025 Vintage Estimates for 2024,26998.5,22057,82
+8/9/2026,24 - 35 months,07/01/2023 - 06/30/2024,MMR,1,2026,Q2,"American Indian, non-Hispanic",2025 Vintage Estimates for 2024,195.45,200,99
+8/9/2026,24 - 35 months,07/01/2023 - 06/30/2024,MMR,1,2026,Q2,"Asian, non-Hispanic",2025 Vintage Estimates for 2024,11163.81,12080,99
+8/9/2026,24 - 35 months,07/01/2023 - 06/30/2024,MMR,1,2026,Q2,"Black, non-Hispanic",2025 Vintage Estimates for 2024,17122.95,13415,78
+8/9/2026,24 - 35 months,07/01/2023 - 06/30/2024,MMR,1,2026,Q2,Hispanic/Latino,2025 Vintage Estimates for 2024,29829.53,25701,86
+8/9/2026,24 - 35 months,07/01/2023 - 06/30/2024,MMR,1,2026,Q2,"Native Hawaiian/PI, non-Hispanic",2025 Vintage Estimates for 2024,47.08,37,79
+8/9/2026,24 - 35 months,07/01/2023 - 06/30/2024,MMR,1,2026,Q2,Other,2025 Vintage Estimates for 2024,,1207,
+8/9/2026,24 - 35 months,07/01/2023 - 06/30/2024,MMR,1,2026,Q2,"Two or more races, non-Hispanic",2025 Vintage Estimates for 2024,3307.22,746,23
+8/9/2026,24 - 35 months,07/01/2023 - 06/30/2024,MMR,1,2026,Q2,Unknown,2025 Vintage Estimates for 2024,,2871,
+8/9/2026,24 - 35 months,07/01/2023 - 06/30/2024,MMR,1,2026,Q2,"White, non-Hispanic",2025 Vintage Estimates for 2024,26998.5,22276,83
+8/9/2026,24 - 35 months,07/01/2023 - 06/30/2024,Hib,3 or 4,2026,Q2,"American Indian, non-Hispanic",2025 Vintage Estimates for 2024,195.45,174,89
+8/9/2026,24 - 35 months,07/01/2023 - 06/30/2024,Hib,3 or 4,2026,Q2,"Asian, non-Hispanic",2025 Vintage Estimates for 2024,11163.81,10923,98
+8/9/2026,24 - 35 months,07/01/2023 - 06/30/2024,Hib,3 or 4,2026,Q2,"Black, non-Hispanic",2025 Vintage Estimates for 2024,17122.95,10884,64
+8/9/2026,24 - 35 months,07/01/2023 - 06/30/2024,Hib,3 or 4,2026,Q2,Hispanic/Latino,2025 Vintage Estimates for 2024,29829.53,21637,73
+8/9/2026,24 - 35 months,07/01/2023 - 06/30/2024,Hib,3 or 4,2026,Q2,"Native Hawaiian/PI, non-Hispanic",2025 Vintage Estimates for 2024,47.08,33,70
+8/9/2026,24 - 35 months,07/01/2023 - 06/30/2024,Hib,3 or 4,2026,Q2,Other,2025 Vintage Estimates for 2024,,885,
+8/9/2026,24 - 35 months,07/01/2023 - 06/30/2024,Hib,3 or 4,2026,Q2,"Two or more races, non-Hispanic",2025 Vintage Estimates for 2024,3307.22,614,19
+8/9/2026,24 - 35 months,07/01/2023 - 06/30/2024,Hib,3 or 4,2026,Q2,Unknown,2025 Vintage Estimates for 2024,,2040,
+8/9/2026,24 - 35 months,07/01/2023 - 06/30/2024,Hib,3 or 4,2026,Q2,"White, non-Hispanic",2025 Vintage Estimates for 2024,26998.5,15658,58
+8/9/2026,24 - 35 months,07/01/2023 - 06/30/2024,HepB,3,2026,Q2,"American Indian, non-Hispanic",2025 Vintage Estimates for 2024,195.45,207,99
+8/9/2026,24 - 35 months,07/01/2023 - 06/30/2024,HepB,3,2026,Q2,"Asian, non-Hispanic",2025 Vintage Estimates for 2024,11163.81,12637,99
+8/9/2026,24 - 35 months,07/01/2023 - 06/30/2024,HepB,3,2026,Q2,"Black, non-Hispanic",2025 Vintage Estimates for 2024,17122.95,13922,81
+8/9/2026,24 - 35 months,07/01/2023 - 06/30/2024,HepB,3,2026,Q2,Hispanic/Latino,2025 Vintage Estimates for 2024,29829.53,26703,90
+8/9/2026,24 - 35 months,07/01/2023 - 06/30/2024,HepB,3,2026,Q2,"Native Hawaiian/PI, non-Hispanic",2025 Vintage Estimates for 2024,47.08,41,87
+8/9/2026,24 - 35 months,07/01/2023 - 06/30/2024,HepB,3,2026,Q2,Other,2025 Vintage Estimates for 2024,,1204,
+8/9/2026,24 - 35 months,07/01/2023 - 06/30/2024,HepB,3,2026,Q2,"Two or more races, non-Hispanic",2025 Vintage Estimates for 2024,3307.22,770,23
+8/9/2026,24 - 35 months,07/01/2023 - 06/30/2024,HepB,3,2026,Q2,Unknown,2025 Vintage Estimates for 2024,,2760,
+8/9/2026,24 - 35 months,07/01/2023 - 06/30/2024,HepB,3,2026,Q2,"White, non-Hispanic",2025 Vintage Estimates for 2024,26998.5,21017,78
+8/9/2026,24 - 35 months,07/01/2023 - 06/30/2024,Varicella,1,2026,Q2,"American Indian, non-Hispanic",2025 Vintage Estimates for 2024,195.45,205,99
+8/9/2026,24 - 35 months,07/01/2023 - 06/30/2024,Varicella,1,2026,Q2,"Asian, non-Hispanic",2025 Vintage Estimates for 2024,11163.81,11992,99
+8/9/2026,24 - 35 months,07/01/2023 - 06/30/2024,Varicella,1,2026,Q2,"Black, non-Hispanic",2025 Vintage Estimates for 2024,17122.95,13285,78
+8/9/2026,24 - 35 months,07/01/2023 - 06/30/2024,Varicella,1,2026,Q2,Hispanic/Latino,2025 Vintage Estimates for 2024,29829.53,25572,86
+8/9/2026,24 - 35 months,07/01/2023 - 06/30/2024,Varicella,1,2026,Q2,"Native Hawaiian/PI, non-Hispanic",2025 Vintage Estimates for 2024,47.08,40,85
+8/9/2026,24 - 35 months,07/01/2023 - 06/30/2024,Varicella,1,2026,Q2,Other,2025 Vintage Estimates for 2024,,1186,
+8/9/2026,24 - 35 months,07/01/2023 - 06/30/2024,Varicella,1,2026,Q2,"Two or more races, non-Hispanic",2025 Vintage Estimates for 2024,3307.22,740,22
+8/9/2026,24 - 35 months,07/01/2023 - 06/30/2024,Varicella,1,2026,Q2,Unknown,2025 Vintage Estimates for 2024,,2761,
+8/9/2026,24 - 35 months,07/01/2023 - 06/30/2024,Varicella,1,2026,Q2,"White, non-Hispanic",2025 Vintage Estimates for 2024,26998.5,21870,81
+8/9/2026,24 - 35 months,07/01/2023 - 06/30/2024,PCV,4,2026,Q2,"American Indian, non-Hispanic",2025 Vintage Estimates for 2024,195.45,168,86
+8/9/2026,24 - 35 months,07/01/2023 - 06/30/2024,PCV,4,2026,Q2,"Asian, non-Hispanic",2025 Vintage Estimates for 2024,11163.81,10551,95
+8/9/2026,24 - 35 months,07/01/2023 - 06/30/2024,PCV,4,2026,Q2,"Black, non-Hispanic",2025 Vintage Estimates for 2024,17122.95,10389,61
+8/9/2026,24 - 35 months,07/01/2023 - 06/30/2024,PCV,4,2026,Q2,Hispanic/Latino,2025 Vintage Estimates for 2024,29829.53,21024,70
+8/9/2026,24 - 35 months,07/01/2023 - 06/30/2024,PCV,4,2026,Q2,"Native Hawaiian/PI, non-Hispanic",2025 Vintage Estimates for 2024,47.08,30,64
+8/9/2026,24 - 35 months,07/01/2023 - 06/30/2024,PCV,4,2026,Q2,Other,2025 Vintage Estimates for 2024,,825,
+8/9/2026,24 - 35 months,07/01/2023 - 06/30/2024,PCV,4,2026,Q2,"Two or more races, non-Hispanic",2025 Vintage Estimates for 2024,3307.22,600,18
+8/9/2026,24 - 35 months,07/01/2023 - 06/30/2024,PCV,4,2026,Q2,Unknown,2025 Vintage Estimates for 2024,,1916,
+8/9/2026,24 - 35 months,07/01/2023 - 06/30/2024,PCV,4,2026,Q2,"White, non-Hispanic",2025 Vintage Estimates for 2024,26998.5,14446,54
+8/9/2026,9 - 10 years,07/01/2015 - 06/30/2017,HPV,1,2026,Q2,"American Indian, non-Hispanic",2025 Vintage Estimates for 2024,496.24,40,8
+8/9/2026,9 - 10 years,07/01/2015 - 06/30/2017,HPV,1,2026,Q2,"Asian, non-Hispanic",2025 Vintage Estimates for 2024,27213.48,4528,17
+8/9/2026,9 - 10 years,07/01/2015 - 06/30/2017,HPV,1,2026,Q2,"Black, non-Hispanic",2025 Vintage Estimates for 2024,38205.63,5542,15
+8/9/2026,9 - 10 years,07/01/2015 - 06/30/2017,HPV,1,2026,Q2,Hispanic/Latino,2025 Vintage Estimates for 2024,63727.57,14359,23
+8/9/2026,9 - 10 years,07/01/2015 - 06/30/2017,HPV,1,2026,Q2,"Native Hawaiian/PI, non-Hispanic",2025 Vintage Estimates for 2024,123.78,17,14
+8/9/2026,9 - 10 years,07/01/2015 - 06/30/2017,HPV,1,2026,Q2,Other,2025 Vintage Estimates for 2024,,514,
+8/9/2026,9 - 10 years,07/01/2015 - 06/30/2017,HPV,1,2026,Q2,"Two or more races, non-Hispanic",2025 Vintage Estimates for 2024,7136.21,207,3
+8/9/2026,9 - 10 years,07/01/2015 - 06/30/2017,HPV,1,2026,Q2,Unknown,2025 Vintage Estimates for 2024,,602,
+8/9/2026,9 - 10 years,07/01/2015 - 06/30/2017,HPV,1,2026,Q2,"White, non-Hispanic",2025 Vintage Estimates for 2024,49191.07,2092,4
+8/9/2026,11 - 12 years,07/01/2013 - 06/30/2015,HPV,1,2026,Q2,"American Indian, non-Hispanic",2025 Vintage Estimates for 2024,497.67,154,31
+8/9/2026,11 - 12 years,07/01/2013 - 06/30/2015,HPV,1,2026,Q2,"Asian, non-Hispanic",2025 Vintage Estimates for 2024,26267.77,16960,65
+8/9/2026,11 - 12 years,07/01/2013 - 06/30/2015,HPV,1,2026,Q2,"Black, non-Hispanic",2025 Vintage Estimates for 2024,38990.87,19510,50
+8/9/2026,11 - 12 years,07/01/2013 - 06/30/2015,HPV,1,2026,Q2,Hispanic/Latino,2025 Vintage Estimates for 2024,65527.54,42375,65
+8/9/2026,11 - 12 years,07/01/2013 - 06/30/2015,HPV,1,2026,Q2,"Native Hawaiian/PI, non-Hispanic",2025 Vintage Estimates for 2024,103.56,62,60
+8/9/2026,11 - 12 years,07/01/2013 - 06/30/2015,HPV,1,2026,Q2,Other,2025 Vintage Estimates for 2024,,1581,
+8/9/2026,11 - 12 years,07/01/2013 - 06/30/2015,HPV,1,2026,Q2,"Two or more races, non-Hispanic",2025 Vintage Estimates for 2024,6976.82,716,10
+8/9/2026,11 - 12 years,07/01/2013 - 06/30/2015,HPV,1,2026,Q2,Unknown,2025 Vintage Estimates for 2024,,2689,
+8/9/2026,11 - 12 years,07/01/2013 - 06/30/2015,HPV,1,2026,Q2,"White, non-Hispanic",2025 Vintage Estimates for 2024,48248.93,9418,20
+8/9/2026,13 years,07/01/2012 - 06/30/2013,HPV,1,2026,Q2,"American Indian, non-Hispanic",2025 Vintage Estimates for 2024,244.74,107,44
+8/9/2026,13 years,07/01/2012 - 06/30/2013,HPV,1,2026,Q2,"Asian, non-Hispanic",2025 Vintage Estimates for 2024,13077.68,11888,91
+8/9/2026,13 years,07/01/2012 - 06/30/2013,HPV,1,2026,Q2,"Black, non-Hispanic",2025 Vintage Estimates for 2024,19412.35,13211,68
+8/9/2026,13 years,07/01/2012 - 06/30/2013,HPV,1,2026,Q2,Hispanic/Latino,2025 Vintage Estimates for 2024,32919.35,27487,83
+8/9/2026,13 years,07/01/2012 - 06/30/2013,HPV,1,2026,Q2,"Native Hawaiian/PI, non-Hispanic",2025 Vintage Estimates for 2024,57.33,48,84
+8/9/2026,13 years,07/01/2012 - 06/30/2013,HPV,1,2026,Q2,Other,2025 Vintage Estimates for 2024,,1040,
+8/9/2026,13 years,07/01/2012 - 06/30/2013,HPV,1,2026,Q2,"Two or more races, non-Hispanic",2025 Vintage Estimates for 2024,2990.88,523,17
+8/9/2026,13 years,07/01/2012 - 06/30/2013,HPV,1,2026,Q2,Unknown,2025 Vintage Estimates for 2024,,1992,
+8/9/2026,13 years,07/01/2012 - 06/30/2013,HPV,1,2026,Q2,"White, non-Hispanic",2025 Vintage Estimates for 2024,23312.3,6583,28
+8/9/2026,13 years,07/01/2012 - 06/30/2013,HPV,2 or 3,2026,Q2,"American Indian, non-Hispanic",2025 Vintage Estimates for 2024,244.74,70,29
+8/9/2026,13 years,07/01/2012 - 06/30/2013,HPV,2 or 3,2026,Q2,"Asian, non-Hispanic",2025 Vintage Estimates for 2024,13077.68,8539,65
+8/9/2026,13 years,07/01/2012 - 06/30/2013,HPV,2 or 3,2026,Q2,"Black, non-Hispanic",2025 Vintage Estimates for 2024,19412.35,8663,45
+8/9/2026,13 years,07/01/2012 - 06/30/2013,HPV,2 or 3,2026,Q2,Hispanic/Latino,2025 Vintage Estimates for 2024,32919.35,19826,60
+8/9/2026,13 years,07/01/2012 - 06/30/2013,HPV,2 or 3,2026,Q2,"Native Hawaiian/PI, non-Hispanic",2025 Vintage Estimates for 2024,57.33,25,44
+8/9/2026,13 years,07/01/2012 - 06/30/2013,HPV,2 or 3,2026,Q2,Other,2025 Vintage Estimates for 2024,,628,
+8/9/2026,13 years,07/01/2012 - 06/30/2013,HPV,2 or 3,2026,Q2,"Two or more races, non-Hispanic",2025 Vintage Estimates for 2024,2990.88,326,11
+8/9/2026,13 years,07/01/2012 - 06/30/2013,HPV,2 or 3,2026,Q2,Unknown,2025 Vintage Estimates for 2024,,723,
+8/9/2026,13 years,07/01/2012 - 06/30/2013,HPV,2 or 3,2026,Q2,"White, non-Hispanic",2025 Vintage Estimates for 2024,23312.3,3342,14
+8/9/2026,13 - 17 years,07/01/2008 - 06/30/2013,HPV,1,2026,Q2,"American Indian, non-Hispanic",2025 Vintage Estimates for 2024,1407.76,1288,91
+8/9/2026,13 - 17 years,07/01/2008 - 06/30/2013,HPV,1,2026,Q2,"Asian, non-Hispanic",2025 Vintage Estimates for 2024,59616.48,66313,99
+8/9/2026,13 - 17 years,07/01/2008 - 06/30/2013,HPV,1,2026,Q2,"Black, non-Hispanic",2025 Vintage Estimates for 2024,97451.71,83388,86
+8/9/2026,13 - 17 years,07/01/2008 - 06/30/2013,HPV,1,2026,Q2,Hispanic/Latino,2025 Vintage Estimates for 2024,162067.3,158981,98
+8/9/2026,13 - 17 years,07/01/2008 - 06/30/2013,HPV,1,2026,Q2,"Native Hawaiian/PI, non-Hispanic",2025 Vintage Estimates for 2024,254.13,458,99
+8/9/2026,13 - 17 years,07/01/2008 - 06/30/2013,HPV,1,2026,Q2,Other,2025 Vintage Estimates for 2024,,10404,
+8/9/2026,13 - 17 years,07/01/2008 - 06/30/2013,HPV,1,2026,Q2,"Two or more races, non-Hispanic",2025 Vintage Estimates for 2024,13040.06,887,7
+8/9/2026,13 - 17 years,07/01/2008 - 06/30/2013,HPV,1,2026,Q2,Unknown,2025 Vintage Estimates for 2024,,22757,
+8/9/2026,13 - 17 years,07/01/2008 - 06/30/2013,HPV,1,2026,Q2,"White, non-Hispanic",2025 Vintage Estimates for 2024,114852.92,47209,41
+8/9/2026,13 - 17 years,07/01/2008 - 06/30/2013,HPV,2 or 3,2026,Q2,"American Indian, non-Hispanic",2025 Vintage Estimates for 2024,1407.76,1058,75
+8/9/2026,13 - 17 years,07/01/2008 - 06/30/2013,HPV,2 or 3,2026,Q2,"Asian, non-Hispanic",2025 Vintage Estimates for 2024,59616.48,57882,97
+8/9/2026,13 - 17 years,07/01/2008 - 06/30/2013,HPV,2 or 3,2026,Q2,"Black, non-Hispanic",2025 Vintage Estimates for 2024,97451.71,68287,70
+8/9/2026,13 - 17 years,07/01/2008 - 06/30/2013,HPV,2 or 3,2026,Q2,Hispanic/Latino,2025 Vintage Estimates for 2024,162067.3,134908,83
+8/9/2026,13 - 17 years,07/01/2008 - 06/30/2013,HPV,2 or 3,2026,Q2,"Native Hawaiian/PI, non-Hispanic",2025 Vintage Estimates for 2024,254.13,384,99
+8/9/2026,13 - 17 years,07/01/2008 - 06/30/2013,HPV,2 or 3,2026,Q2,Other,2025 Vintage Estimates for 2024,,7724,
+8/9/2026,13 - 17 years,07/01/2008 - 06/30/2013,HPV,2 or 3,2026,Q2,"Two or more races, non-Hispanic",2025 Vintage Estimates for 2024,13040.06,648,5
+8/9/2026,13 - 17 years,07/01/2008 - 06/30/2013,HPV,2 or 3,2026,Q2,Unknown,2025 Vintage Estimates for 2024,,12945,
+8/9/2026,13 - 17 years,07/01/2008 - 06/30/2013,HPV,2 or 3,2026,Q2,"White, non-Hispanic",2025 Vintage Estimates for 2024,114852.92,37508,33
+8/9/2026,6 months - 4 years,07/01/2021 - 12/31/2025,Flu,1,2025 - 26,Q2,"American Indian, non-Hispanic",2025 Vintage Estimates for 2024,898.15,454,51
+8/9/2026,6 months - 4 years,07/01/2021 - 12/31/2025,Flu,1,2025 - 26,Q2,"Asian, non-Hispanic",2025 Vintage Estimates for 2024,52063.81,42873,82
+8/9/2026,6 months - 4 years,07/01/2021 - 12/31/2025,Flu,1,2025 - 26,Q2,"Black, non-Hispanic",2025 Vintage Estimates for 2024,78894.33,37378,47
+8/9/2026,6 months - 4 years,07/01/2021 - 12/31/2025,Flu,1,2025 - 26,Q2,Hispanic/Latino,2025 Vintage Estimates for 2024,140162.09,74408,53
+8/9/2026,6 months - 4 years,07/01/2021 - 12/31/2025,Flu,1,2025 - 26,Q2,"Native Hawaiian/PI, non-Hispanic",2025 Vintage Estimates for 2024,203.87,133,65
+8/9/2026,6 months - 4 years,07/01/2021 - 12/31/2025,Flu,1,2025 - 26,Q2,Other,2025 Vintage Estimates for 2024,,3519,
+8/9/2026,6 months - 4 years,07/01/2021 - 12/31/2025,Flu,1,2025 - 26,Q2,"Two or more races, non-Hispanic",2025 Vintage Estimates for 2024,14815.34,2103,14
+8/9/2026,6 months - 4 years,07/01/2021 - 12/31/2025,Flu,1,2025 - 26,Q2,Unknown,2025 Vintage Estimates for 2024,,8466,
+8/9/2026,6 months - 4 years,07/01/2021 - 12/31/2025,Flu,1,2025 - 26,Q2,"White, non-Hispanic",2025 Vintage Estimates for 2024,120895.71,66574,55
+8/9/2026,5 - 12 years,07/01/2013 - 06/30/2021,Flu,1,2025 - 26,Q2,"American Indian, non-Hispanic",2025 Vintage Estimates for 2024,1983.51,388,20
+8/9/2026,5 - 12 years,07/01/2013 - 06/30/2021,Flu,1,2025 - 26,Q2,"Asian, non-Hispanic",2025 Vintage Estimates for 2024,109799.65,65778,60
+8/9/2026,5 - 12 years,07/01/2013 - 06/30/2021,Flu,1,2025 - 26,Q2,"Black, non-Hispanic",2025 Vintage Estimates for 2024,152037.3,37472,25
+8/9/2026,5 - 12 years,07/01/2013 - 06/30/2021,Flu,1,2025 - 26,Q2,Hispanic/Latino,2025 Vintage Estimates for 2024,253110.3,86549,34
+8/9/2026,5 - 12 years,07/01/2013 - 06/30/2021,Flu,1,2025 - 26,Q2,"Native Hawaiian/PI, non-Hispanic",2025 Vintage Estimates for 2024,515.34,173,34
+8/9/2026,5 - 12 years,07/01/2013 - 06/30/2021,Flu,1,2025 - 26,Q2,Other,2025 Vintage Estimates for 2024,,3762,
+8/9/2026,5 - 12 years,07/01/2013 - 06/30/2021,Flu,1,2025 - 26,Q2,"Two or more races, non-Hispanic",2025 Vintage Estimates for 2024,28704.23,2137,7
+8/9/2026,5 - 12 years,07/01/2013 - 06/30/2021,Flu,1,2025 - 26,Q2,Unknown,2025 Vintage Estimates for 2024,,7834,
+8/9/2026,5 - 12 years,07/01/2013 - 06/30/2021,Flu,1,2025 - 26,Q2,"White, non-Hispanic",2025 Vintage Estimates for 2024,197706.4,49803,25
+8/9/2026,13 - 17 years,07/01/2008 - 06/30/2013,Flu,1,2025 - 26,Q2,"American Indian, non-Hispanic",2025 Vintage Estimates for 2024,1407.76,535,38
+8/9/2026,13 - 17 years,07/01/2008 - 06/30/2013,Flu,1,2025 - 26,Q2,"Asian, non-Hispanic",2025 Vintage Estimates for 2024,59616.48,36575,61
+8/9/2026,13 - 17 years,07/01/2008 - 06/30/2013,Flu,1,2025 - 26,Q2,"Black, non-Hispanic",2025 Vintage Estimates for 2024,97451.71,22508,23
+8/9/2026,13 - 17 years,07/01/2008 - 06/30/2013,Flu,1,2025 - 26,Q2,Hispanic/Latino,2025 Vintage Estimates for 2024,162067.3,52491,32
+8/9/2026,13 - 17 years,07/01/2008 - 06/30/2013,Flu,1,2025 - 26,Q2,"Native Hawaiian/PI, non-Hispanic",2025 Vintage Estimates for 2024,254.13,168,66
+8/9/2026,13 - 17 years,07/01/2008 - 06/30/2013,Flu,1,2025 - 26,Q2,Other,2025 Vintage Estimates for 2024,,3036,
+8/9/2026,13 - 17 years,07/01/2008 - 06/30/2013,Flu,1,2025 - 26,Q2,"Two or more races, non-Hispanic",2025 Vintage Estimates for 2024,13040.06,274,2
+8/9/2026,13 - 17 years,07/01/2008 - 06/30/2013,Flu,1,2025 - 26,Q2,Unknown,2025 Vintage Estimates for 2024,,4746,
+8/9/2026,13 - 17 years,07/01/2008 - 06/30/2013,Flu,1,2025 - 26,Q2,"White, non-Hispanic",2025 Vintage Estimates for 2024,114852.92,22627,20
 2/2/2026,24 - 35 months,01/01/2023 - 12/31/2023,4313314,4:3:1:3:3:1:4,2025,Q4,"American Indian, non-Hispanic",2025 Vintage Estimates for 2024,195.45,148,76
 2/2/2026,24 - 35 months,01/01/2023 - 12/31/2023,4313314,4:3:1:3:3:1:4,2025,Q4,"Asian, non-Hispanic",2025 Vintage Estimates for 2024,11163.81,9546,86
 2/2/2026,24 - 35 months,01/01/2023 - 12/31/2023,4313314,4:3:1:3:3:1:4,2025,Q4,"Black, non-Hispanic",2025 Vintage Estimates for 2024,17122.95,9599,56
