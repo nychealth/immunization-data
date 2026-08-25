@@ -118,7 +118,7 @@ Human Papillomavirus Vaccine (HPV)
 
 - Percent vaccinated for HPV vaccine series initiation is calculated by dividing the number of children or adolescents in the age cohort (9 to 10 years, 11 to 12 years, 13 years by their 13th birthday, and 13 to 17 year) who received at least one dose of HPV vaccine according to the CIR, by the total number of same-aged children or adolescents in that year according to the Vintage Population estimates.
   
-- Percent vaccinated for the HPV vaccine series completion is calculated by dividing the number of 13- to 17-year-olds who received all recommended doses of HPV vaccine according to the CIR, by the total number of same-aged adolescents in that year according to the Vintage Population estimates. On-time vaccination is calculated by dividing the number of 13-year-olds who completed the HPV vaccine series by their 13th birthday according to the CIR, by the total number of 13-year-olds in that year according to the Vintage Population estimates.  
+- Percent vaccinated for the HPV vaccine series completion is calculated by dividing the number of 13- to 17-year-olds who received all recommended doses of HPV vaccine according to the CIR, by the total number of same-aged adolescents in that year according to the Vintage Population estimates.  
 
 - On-time vaccination is calculated by dividing the number of 13-year-olds who completed the HPV vaccine series by their 13th birthday according to the CIR, by the total number of 13-year-olds in that year according to the Vintage Population estimates.
  
